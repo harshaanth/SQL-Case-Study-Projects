@@ -1,7 +1,7 @@
 # SQL Case Study Projects
 
 ## Overview
-This repository contains a series of SQL case studies designed to enhance your skills in database querying and business intelligence. Each case study involves writing and executing SQL queries to retrieve specific data sets from provided databases. The projects showcase practical applications of SQL in real-world business scenarios.
+This repository houses a collection of SQL case studies meticulously crafted to demonstrate and enhance my proficiency in database querying and business intelligence. Each case study entails the composition and execution of SQL queries to extract specific data sets from the provided databases. The projects elucidate practical applications of SQL within contemporary business contexts.
 
 ## Projects Included
 
