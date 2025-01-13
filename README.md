@@ -1,7 +1,7 @@
 # SQL Case Study Projects
 
 ## Overview
-This repository houses a collection of SQL case studies meticulously crafted to demonstrate and enhance my proficiency in database querying and business intelligence. Each case study entails the composition and execution of SQL queries to extract specific data sets from the provided databases. The projects elucidate practical applications of SQL within contemporary business contexts.
+Conducted advanced SQL queries on ZAGI Access and Pine Valley Furniture Company databases, leveraging SELECT statements, JOINs, subqueries, aggregations, and filtering to analyze customer, product, and transaction data across multiple tables.
 
 ## Projects Included
 
