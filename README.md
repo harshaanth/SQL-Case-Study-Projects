@@ -9,7 +9,7 @@ This repository contains a series of SQL case studies designed to enhance your s
 - **Objective:** Write SQL queries to retrieve and analyze data from the ZAGI Access database, focusing on customer, product, and transaction information.
 - **Skills Demonstrated:** SELECT statements, WHERE clauses, AND/OR conditions, data filtering.
 
-### 2. Pine Valley Furniture Company Database Case Study (Part 2 of 3) Click to view:
+### 2. Pine Valley Furniture Company Database Case Study (Part 2 of 3) Click to view: https://github.com/harshaanth/SQL-Case-Study-Projects/blob/main/CaseStudy_SQL_Part2of3_PVFC.pdf
 - **Objective:** Execute SQL queries on the Pine Valley Furniture Company database to extract detailed customer and order information.
 - **Skills Demonstrated:** JOINS, filtering data with specific conditions, subqueries, data aggregation.
 
