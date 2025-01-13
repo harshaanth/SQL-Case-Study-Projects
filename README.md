@@ -1,7 +1,7 @@
 # SQL Case Study Projects
 
 ## Overview
-Conducted advanced SQL queries on ZAGI Access and Pine Valley Furniture Company databases, leveraging SELECT statements, JOINs, subqueries, aggregations, and filtering to analyze customer, product, and transaction data across multiple tables.
+Conducted advanced SQL queries on ZAGI Access and Pine Valley Furniture Company databases, leveraging SELECT statements, JOINs, subqueries, aggregations, and filtering for DQL analysis of product, order, and transaction data to assess performance, inform strategic marketing decisions, and enhance customer engagement.
 
 ## Projects Included
 
